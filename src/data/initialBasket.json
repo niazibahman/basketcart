@@ -1,0 +1,66 @@
+[
+    {
+        "color": "قهوه ای",
+        "Title": "کفش روزمره مردانه چرم عطارد مدل چرم طبیعی کد SH59",
+        "hexColor": "#ba6d2e",
+        "sizes": [
+            "40",
+            "41"
+        ],
+        "variety": {
+            "price": 22490000,
+            "size": "40",
+            "imageUrl": "https://dkstatics-public.digikala.com/digikala-products/bb846d2de5fa3251f990e7553e794e8fbee6f7ab_1687958160.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+            "quantity": 5,
+            "_id": "65abc3c114d74af57c32c9e5",
+            "count": 1
+        }
+    },
+    {
+        "color": "مشکی",
+        "Title": "کفش روزمره مردانه چرم عطارد مدل چرم طبیعی کد SH59",
+        "hexColor": "#0d0d0d",
+        "sizes": [
+            "42",
+            "43"
+        ],
+        "variety": {
+            "price": 22690000,
+            "size": "42",
+            "imageUrl": "https://dkstatics-public.digikala.com/digikala-products/706c56166ba9bb1a3cbe95b507f7620657046648_1693652776.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "quantity": 10,
+            "_id": "65abc3c114d74af57c32c9e7",
+            "count": 2
+        }
+    },
+    {
+        "color": "مشکی",
+        "Title": "کفش روزمره مردانه چرم عطارد مدل چرم طبیعی کد SH59",
+        "hexColor": "#0d0d0d",
+        "sizes": [
+            "42",
+            "43"
+        ],
+        "variety": {
+            "price": 22790000,
+            "size": "43",
+            "imageUrl": "https://dkstatics-public.digikala.com/digikala-products/706c56166ba9bb1a3cbe95b507f7620657046648_1693652776.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+            "quantity": 5,
+            "_id": "65abc3c114d74af57c32c9e8",
+            "count": 3
+        }
+    },
+    {
+        "color": "آبی",
+        "hexColor": "#1759bc",
+        "title": "هدست",
+        "sizes": [],
+        "variety": {
+            "price": 317900000,
+            "imageUrl": "https://dkstatics-public.digikala.com/digikala-products/f364a3ef62e6c35d7e0edab49b8cea6a4290c95d_1609242522.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+            "quantity": 3,
+            "_id": "65acc117da526ba51535c40c",
+            "count": 2
+        }
+    }
+]
